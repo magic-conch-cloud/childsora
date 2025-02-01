@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @childsora
+# - 👋 Hi, I’m @sora
 ## - 👀 I’m interested in 
 ### - 🌱 I’m currently learning python
 ###### - 💞️ I’m looking to collaborate on not yet
